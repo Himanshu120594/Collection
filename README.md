@@ -1,0 +1,2 @@
+# Collection
+Encapsulation,Singleton,Hashcode
